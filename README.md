@@ -1,6 +1,6 @@
 # Challenges
 
-A collection of solutions to coding challenges
+A collection of solutions to random coding challenges
 
 
 ## License
